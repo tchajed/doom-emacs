@@ -29,7 +29,7 @@ This module provides no flags.
 
 On Linux =xclip=, =xdotool=, =xprop=, and =xwininfo= are needed.
 
-On MacOS, Emacs must be allowed to "control your computer" under *Settings > Accessibility*.
+On macOS, Emacs must be allowed to "control your computer" under *Settings > Security & Privacy > Privacy tab > Accessibility* (or *Settings > Accessibility* on older versions of macOS).
 
 * Features
 
